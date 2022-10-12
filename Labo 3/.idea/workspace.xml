@@ -20,6 +20,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Contact_information_assignment/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Personal_homepage_assignment/index.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="2FicHGrMnb3Xl3jUe9RTF35C4BA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -51,7 +52,7 @@
       <updated>1664978256118</updated>
       <workItem from="1664978259106" duration="963000" />
       <workItem from="1665214924462" duration="7572000" />
-      <workItem from="1665578916971" duration="17000" />
+      <workItem from="1665578916971" duration="310000" />
     </task>
     <servers />
   </component>
