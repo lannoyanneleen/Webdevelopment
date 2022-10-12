@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8019449a-4ad7-4c9b-84eb-43eee23f679a" name="Default Changelist" comment="" />
+    <list default="true" id="fcf205fb-8060-42a9-bae2-052fb3693c86" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,10 +18,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Contact_information_assignment/index.html" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectId" id="2FicHGrMnb3Xl3jUe9RTF35C4BA" />
+  <component name="ProjectId" id="2G2DI6hJruy8B00BKElLJCXNvdE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -44,14 +41,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8019449a-4ad7-4c9b-84eb-43eee23f679a" name="Default Changelist" comment="" />
-      <created>1664978256118</created>
+      <changelist id="fcf205fb-8060-42a9-bae2-052fb3693c86" name="Default Changelist" comment="" />
+      <created>1665577703027</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664978256118</updated>
-      <workItem from="1664978259106" duration="963000" />
-      <workItem from="1665214924462" duration="7572000" />
-      <workItem from="1665578916971" duration="17000" />
+      <updated>1665577703027</updated>
+      <workItem from="1665577708045" duration="1191000" />
     </task>
     <servers />
   </component>
@@ -63,9 +58,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
