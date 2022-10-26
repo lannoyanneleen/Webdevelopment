@@ -1,0 +1,6 @@
+.checklist {
+    list-style-image: url("../Images/vakje.png");
+}
+ul .checked{
+    list-style-image: url("../Images/vinkje.png");
+}
