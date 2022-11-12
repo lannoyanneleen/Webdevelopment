@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f608bbfe-b840-4815-a01c-39fbf6e86e41" name="Default Changelist" comment="" />
+    <list default="true" id="0c33a5c6-bcbf-4583-ae99-6ecc0ecce164" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,15 +18,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Opdracht_6/styles/style.css" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Opdracht_5/styles/style.css" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectId" id="2GfjTZfaVw7OlIHzyGuk9B0hBqN" />
+  <component name="ProjectId" id="2HLl7GjGA8QKgP5vqjdKFd1WrAm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Opdracht_2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\annel\OneDrive\Documenten\VIVES 2223\Web 1\Webdevelopment\Labo_7\Opdracht_2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\annel\OneDrive\Documenten\VIVES 2223\Web 1\Webdevelopment\Labo_7" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,15 +50,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f608bbfe-b840-4815-a01c-39fbf6e86e41" name="Default Changelist" comment="" />
-      <created>1666786540930</created>
+      <changelist id="0c33a5c6-bcbf-4583-ae99-6ecc0ecce164" name="Default Changelist" comment="" />
+      <created>1668072076393</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666786540930</updated>
-      <workItem from="1666786542439" duration="6660000" />
-      <workItem from="1667064887622" duration="491000" />
-      <workItem from="1668072190469" duration="600000" />
-      <workItem from="1668266305595" duration="1191000" />
+      <updated>1668072076393</updated>
+      <workItem from="1668072082092" duration="4366000" />
+      <workItem from="1668267039576" duration="358000" />
+      <workItem from="1668267406592" duration="424000" />
+      <workItem from="1668268049159" duration="400000" />
     </task>
     <servers />
   </component>

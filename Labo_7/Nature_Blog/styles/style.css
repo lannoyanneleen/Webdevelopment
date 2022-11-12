@@ -1,0 +1,43 @@
+section
+{
+    width: 1200px;
+    margin: auto;
+}
+
+header
+{
+    background-image: url("../header.jpg");
+    height: 120px;
+    color: #EDF2F4;
+    padding: 0 0 0 10px;
+    font-size: 25px;
+    font-family: helvetica;
+}
+
+nav
+{
+    background-color: #4C4C4C;
+    height: 20px;
+}
+
+nav>a
+{
+    color: #6DFF59;
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+article
+{
+    background-color: lightgray;
+}
+
+article>header{
+    font-size: 30px;
+    color: #5E5C5C;
+    font-family: helvetica;
+    text-decoration: underline;
+    background-image: none;
+    height: auto;
+    padding: 0;
+}
