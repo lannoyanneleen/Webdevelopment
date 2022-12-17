@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53b0d816-40d7-4633-9b96-1da2d7f116b3" name="Default Changelist" comment="" />
+    <list default="true" id="909501ef-c2db-4242-8fb7-5519d0bb97e4" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +16,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2FiSVMe2cng0vw6gcbGOWfqzta1" />
+  <component name="ProjectId" id="2J2vu7EA1QX6BtGnm83wIYnyEWC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -41,17 +41,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53b0d816-40d7-4633-9b96-1da2d7f116b3" name="Default Changelist" comment="" />
-      <created>1664973433371</created>
+      <changelist id="909501ef-c2db-4242-8fb7-5519d0bb97e4" name="Default Changelist" comment="" />
+      <created>1671289212463</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664973433371</updated>
-      <workItem from="1664973434473" duration="439000" />
-      <workItem from="1664974827085" duration="16000" />
-      <workItem from="1664974867455" duration="1271000" />
-      <workItem from="1666185124414" duration="1764000" />
-      <workItem from="1669816461973" duration="630000" />
-      <workItem from="1670673536020" duration="1633000" />
+      <updated>1671289212463</updated>
+      <workItem from="1671289217671" duration="2078000" />
     </task>
     <servers />
   </component>
@@ -63,9 +58,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
