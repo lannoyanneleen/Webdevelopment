@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="879e3fec-f53a-487d-abba-7375a79486e6" name="Default Changelist" comment="" />
+    <list default="true" id="ef6a05f4-c71d-4778-bda6-ad6d880ad422" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +9,9 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/airbus.html" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectId" id="2IGmdykmfiULI4xbcANbG5Pg6mk" />
+  <component name="ProjectId" id="2LhAGCuQffCTfoR7ZQ8VguVtY2i" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -36,14 +33,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="879e3fec-f53a-487d-abba-7375a79486e6" name="Default Changelist" comment="" />
-      <created>1669816385111</created>
+      <changelist id="ef6a05f4-c71d-4778-bda6-ad6d880ad422" name="Default Changelist" comment="" />
+      <created>1676312844081</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1669816385111</updated>
-      <workItem from="1669816386211" duration="3744000" />
-      <workItem from="1670419811760" duration="1098000" />
-      <workItem from="1674823659250" duration="208000" />
+      <updated>1676312844081</updated>
+      <workItem from="1676312849936" duration="193000" />
     </task>
     <servers />
   </component>
@@ -55,9 +50,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
