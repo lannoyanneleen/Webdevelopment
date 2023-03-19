@@ -18,11 +18,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="2FiSVMe2cng0vw6gcbGOWfqzta1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,6 +61,9 @@
       <workItem from="1677513362619" duration="1428000" />
       <workItem from="1678126964109" duration="109000" />
       <workItem from="1678282992280" duration="647000" />
+      <workItem from="1678289381244" duration="1814000" />
+      <workItem from="1678887633424" duration="668000" />
+      <workItem from="1679216051354" duration="142000" />
     </task>
     <servers />
   </component>

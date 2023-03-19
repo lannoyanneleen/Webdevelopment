@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf4e3028-531e-4a5e-aee8-2d22e7ed1d1a" name="Default Changelist" comment="" />
+    <list default="true" id="4d54b289-a1e1-4d13-b9d1-0f0f145f6d4a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +19,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/scripts/code.js" root0="SKIP_INSPECTION" />
   </component>
-  <component name="ProjectId" id="1piSPJLez1AKmoBN6Yg2HfYgnNa" />
+  <component name="ProjectId" id="2N3PPtBuhDaOrg99K3wd7Labm9k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -44,14 +44,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="cf4e3028-531e-4a5e-aee8-2d22e7ed1d1a" name="Default Changelist" comment="" />
-      <created>1615664391320</created>
+      <changelist id="4d54b289-a1e1-4d13-b9d1-0f0f145f6d4a" name="Default Changelist" comment="" />
+      <created>1678889771264</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615664391320</updated>
-      <workItem from="1615664392464" duration="145000" />
-      <workItem from="1678286971399" duration="173000" />
-      <workItem from="1678288751249" duration="670000" />
+      <updated>1678889771264</updated>
+      <workItem from="1678889772379" duration="2176000" />
     </task>
     <servers />
   </component>
@@ -63,9 +61,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
