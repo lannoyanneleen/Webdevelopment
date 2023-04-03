@@ -1,0 +1,16 @@
+#playField{
+    height: 600px;
+    width: 600px;
+    border: solid 1px black
+}
+
+
+#target {
+    position: absolute;
+}
+
+#score {
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+}
