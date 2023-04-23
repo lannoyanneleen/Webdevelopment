@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53b0d816-40d7-4633-9b96-1da2d7f116b3" name="Default Changelist" comment="" />
+    <list default="true" id="c5582e04-50ed-456b-9bde-074c8f168ecc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,17 +16,13 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/index.html" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="ProjectId" id="2FiSVMe2cng0vw6gcbGOWfqzta1" />
+  <component name="ProjectId" id="1rhPFjKcQEujp8t3Jdni1GoH8M0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,29 +41,15 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="53b0d816-40d7-4633-9b96-1da2d7f116b3" name="Default Changelist" comment="" />
-      <created>1664973433371</created>
+      <changelist id="c5582e04-50ed-456b-9bde-074c8f168ecc" name="Default Changelist" comment="" />
+      <created>1619425246205</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664973433371</updated>
-      <workItem from="1664973434473" duration="439000" />
-      <workItem from="1664974827085" duration="16000" />
-      <workItem from="1664974867455" duration="1271000" />
-      <workItem from="1666185124414" duration="1764000" />
-      <workItem from="1669816461973" duration="630000" />
-      <workItem from="1670673536020" duration="1633000" />
-      <workItem from="1672064518743" duration="660000" />
-      <workItem from="1672065480092" duration="627000" />
-      <workItem from="1677513362619" duration="1428000" />
-      <workItem from="1678126964109" duration="109000" />
-      <workItem from="1678282992280" duration="647000" />
-      <workItem from="1678289381244" duration="1814000" />
-      <workItem from="1678887633424" duration="668000" />
-      <workItem from="1679216051354" duration="330000" />
-      <workItem from="1679736655224" duration="375000" />
-      <workItem from="1680513697471" duration="583000" />
-      <workItem from="1680525081762" duration="1201000" />
-      <workItem from="1682235542555" duration="37000" />
+      <updated>1619425246205</updated>
+      <workItem from="1619425247336" duration="307000" />
+      <workItem from="1623263772071" duration="101000" />
+      <workItem from="1661931700993" duration="1084000" />
+      <workItem from="1682235420317" duration="102000" />
     </task>
     <servers />
   </component>
